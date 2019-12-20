@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+ArtificialNeuralNetwork/_init_.py
+ArtificialNeuralNetwork/utilities.py
+ArtificialNeuralNetwork.egg-info/PKG-INFO
+ArtificialNeuralNetwork.egg-info/SOURCES.txt
+ArtificialNeuralNetwork.egg-info/dependency_links.txt
+ArtificialNeuralNetwork.egg-info/requires.txt
+ArtificialNeuralNetwork.egg-info/top_level.txt

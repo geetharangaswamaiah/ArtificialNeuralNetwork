@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: ArtificialNeuralNetwork
+Version: 1.0
+Summary: Python Library for Artificial Neural Network Algorithm
+Home-page: UNKNOWN
+Author: Geetha Rangaswamaiah
+Author-email: rgeetha2010@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: MIT License
+Classifier: Programming Language :: Python :: 3.0
+Classifier: Topic :: Recognition :: Artificial Neural Network
