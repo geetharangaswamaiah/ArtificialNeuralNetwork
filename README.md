@@ -2,7 +2,7 @@
 
 * Artificial Neural Network is a series of Learning Algorithms to recognize underlying relationships in a dataset through a process that is based on human brain operations.
 
-* Install the library using the command pip3 install git+
+* Install the library using the command pip3 install git+https://github.com/rgeetha2010/ArtificialNeuralNetwork.git
 
 * An example application is provided for reference.
 
